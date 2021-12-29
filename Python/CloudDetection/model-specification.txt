@@ -1,0 +1,11 @@
+The directories 'models' and 'histories' contain all models trained and their histories. Models described in the thesis are specified here: 
+
+Sentinel-2 model - cloud_model_2021-11-20_2.hdf5
+
+Landsat 8 model - cloud_model_2021-11-15.hdf5
+
+TechnoSat model - cloud_model_2021-11-21_1.hdf5
+
+TechnoSat sample weighted model - cloud_model_2021-11-21_2.hdf5
+
+Landsat 8 TIR model - cloud_model_2021-12-4_2.hdf5
